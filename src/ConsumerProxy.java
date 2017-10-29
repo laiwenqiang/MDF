@@ -1,3 +1,5 @@
+import service.HelloService;
+
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.lang.reflect.InvocationHandler;
