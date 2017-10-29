@@ -5,7 +5,13 @@ package serializer;
  */
 public enum SerializeType {
 
-
+    DefaultJavaSerializer("DefaultJavaSerializer"),
+    HessianSerializer("HessianSerializer"),
+    JSONSerializer("JSONSerializer"),
+    XmlSerializer("XmlSerializer"),
+    AvroSerializer("AvroSerializer"),
+    ProtocoBufferSerializer("ProtocoBufferSerializer"),
+    ThriftSerializer("ThriftSerializer");
 
     private String serializeType;
 
