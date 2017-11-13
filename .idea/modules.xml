@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MDF.iml" filepath="$PROJECT_DIR$/.idea/MDF.iml" />
       <module fileurl="file://$PROJECT_DIR$/MDF.iml" filepath="$PROJECT_DIR$/MDF.iml" />
     </modules>
   </component>
